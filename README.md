@@ -78,3 +78,6 @@ wifi-controlled-quadcopter-pcb/
 ├── hardware/
 │   └── kicad/
 ├── figures/
+## Documentation
+
+- [View complete schematic (PDF)](docs/quadcopter_schematic.pdf)
